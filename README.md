@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FlorysiakSimon
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Javascript & React
-- 💞️ I’m looking to collaborate on React project
 - 📫 simon.florysiak@gmail.com
 - 😎 [Check my portfolio](https://simonflorysiak.netlify.app/)
 
